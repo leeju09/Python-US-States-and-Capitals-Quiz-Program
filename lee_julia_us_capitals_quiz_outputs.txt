@@ -1,0 +1,63 @@
+Run 1:
+==================================================
+Welcome to the United States, States and Capitals Quiz!
+You will be asked about 5 randomly selected states.
+==================================================
+
+[1] What is the capital of Iowa? (Question 1 of 5)
+Your answer: des moines
+Correct!
+
+[2] What is the capital of Missouri? (Question 2 of 5)
+Your answer: jefferson city
+Correct!
+
+[3] What is the capital of Georgia? (Question 3 of 5)
+Your answer: atlanta
+Correct!
+
+[4] What is the capital of Delaware? (Question 4 of 5)
+Your answer: dover
+Correct!
+
+[5] What is the capital of Arizona? (Question 5 of 5)
+Your answer: phoenix
+Correct!
+
+==================================================
+Quiz Complete!
+Your score is 5 out of 5.
+Perfect! Excellent knowledge of the U.S.
+==================================================
+
+Run 2:
+==================================================
+Welcome to the United States, States and Capitals Quiz!
+You will be asked about 5 randomly selected states.
+==================================================
+
+[1] What is the capital of Hawaii? (Question 1 of 5)
+Your answer: honolulu
+Correct!
+
+[2] What is the capital of Washington? (Question 2 of 5)
+Your answer: olympia
+Correct!
+
+[3] What is the capital of New Hampshire? (Question 3 of 5)
+Your answer: concord
+Correct!
+
+[4] What is the capital of Delaware? (Question 4 of 5)
+Your answer: dover
+Correct!
+
+[5] What is the capital of Illinois? (Question 5 of 5)
+Your answer: springfield
+Correct!
+
+==================================================
+Quiz Complete!
+Your score is 5 out of 5.
+Perfect! Excellent knowledge of the U.S.
+==================================================
