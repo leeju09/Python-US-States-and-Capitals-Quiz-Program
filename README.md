@@ -5,7 +5,7 @@ The program randomly selects 5 states per session, validates user input, tracks 
 
 ## Overview
 
-This program was built as part of ** DSCI 2001-51: Data Science I**. It demonstrates core Python skills including dictionaries, the 'random' module, user input handling, string normalization, and function decomposition.
+This program was built as part of **DSCI 2001-51: Data Science I**. It demonstrates core Python skills including dictionaries, the 'random' module, user input handling, string normalization, and function decomposition.
 
 ## Features
 
@@ -18,4 +18,12 @@ This program was built as part of ** DSCI 2001-51: Data Science I**. It demonstr
 - **Progress display** — shows "Question X of 5" during the quiz
 - **Score-based encouragement** — different messages for 5/5, 4/5, 3/5, 1–2/5, and 0/5
 
-- 
+## How to Run
+
+1. Open `python_ds_assignment_us_capitals_quiz_JuliaLee.ipynb` in Google Colab
+2. Click **Runtime → Run all**
+3. When the quiz cell pauses for input, type your answer and press **Enter**
+4. Repeat for all 5 questions
+
+No external libraries are required — only the built-in `random` module.
+
